@@ -8,8 +8,6 @@
 
 ### 
 
-[![An image of @aksgo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aksgo)](https://holopin.io/@aksgo)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aksgo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
