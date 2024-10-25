@@ -41,6 +41,14 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo" />
 </div>
 
 
