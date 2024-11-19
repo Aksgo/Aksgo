@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> Welcome to Aksgo's Profile</h1>
 
-<h2 align="center">I love "LOGIC"</h2>
+<h2 align="center">Let's Develop</h2>
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/aksgo/count.svg?"  />
@@ -58,7 +58,6 @@
 |<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aksgo&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aksgo&theme=dark" height="180em" /> |
 |:---:|:---:|
 |<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aksgo&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aksgo&theme=dark" height="180em" /> |
-| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aksgo&theme=dark&hide_border=false) | 
 |<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksgo&theme=dark" height="180em" /> | <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksgo&layout=compact&theme=dark" alt="aksgo" />|
 
 <h2 align="left">⚡Activity Graph</h2>
