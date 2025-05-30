@@ -83,13 +83,5 @@
 ---
 
 
-## 🚀 Other Cool Stuff
-
-- 🌱 I’m currently learning **AI, ML, and Cloud**
-- 🛠️ I’m working on **Open Source projects**
-- 💬 Ask me about **Java, Python, JavaScript, and DevOps**
-
----
-
 **Thanks for stopping by!** 🌟
 
