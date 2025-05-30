@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> Welcome to Aksgo's Profile</h1>
 
-<h2 align="center">Cooking Something Big</h2>
+<h2 align="center">Cooking Something ...</h2>
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/aksgo/count.svg?"  />
