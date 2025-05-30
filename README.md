@@ -10,8 +10,11 @@
 [![An image of @aksgo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aksgo)](https://holopin.io/@aksgo)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aksgo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ✨ Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aksgo&theme=darkhub&no-frame=true&column=7" alt="aksgo trophies" />
+</p>
 
 ## 🦾 Skills
 
@@ -55,10 +58,38 @@
 
 ## 📈 GitHub Stats
 
-|<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aksgo&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aksgo&theme=dark" height="180em" /> |
-|:---:|:---:|
-|<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aksgo&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aksgo&theme=dark" height="180em" /> |
-|<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksgo&theme=dark" height="180em" /> | <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksgo&layout=compact&theme=dark" alt="aksgo" />|
+| 📊 Stats | 🏆 Most Commit Language |
+|:--:|:--:|
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aksgo&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aksgo&theme=dark" height="180em" /> |
 
-<h2 align="left">⚡Activity Graph</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aksgo&theme=github">
+| 🔥 Streak Stats | 📦 Repos per Language |
+|:--:|:--:|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksgo&theme=dark" height="180em" alt="aksgo's streak" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aksgo&theme=dark" height="180em" /> |
+
+| 🕒 Productive Time | 📝 Profile Details |
+|:--:|:--:|
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aksgo&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksgo&theme=dark" height="180em" /> |
+
+| 🌍 Top Languages |
+|:--:|
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksgo&layout=compact&theme=dark" height="180em" alt="aksgo's top languages" /> |
+
+---
+
+## ⚡ Activity Graph
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aksgo&theme=github" alt="aksgo's activity graph" />
+
+---
+
+
+## 🚀 Other Cool Stuff
+
+- 🌱 I’m currently learning **AI, ML, and Cloud**
+- 🛠️ I’m working on **Open Source projects**
+- 💬 Ask me about **Java, Python, JavaScript, and DevOps**
+
+---
+
+**Thanks for stopping by!** 🌟
+
