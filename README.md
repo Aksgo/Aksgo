@@ -1,4 +1,4 @@
-<h2 align="center"> 🧠 Loves Reasoning </h2>
+<h2 align="center"> 🧠 Loves Reasoning , Explores Nature 🌿 </h2>
 
 
 <div align="left">
