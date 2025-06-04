@@ -1,5 +1,4 @@
-<h1 align="center"> Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> Welcome</h1>
-<h5 align="center">Ready to Learn and Develop</h5>
+<h2 align="center"> 🧠 Loves Reasoning </h2>
 
 
 <div align="left">
@@ -16,71 +15,38 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aksgo&theme=darkhub&no-frame=true&column=7" alt="aksgo trophies" />
 </p>
 
-## 🦾 Skills
+### Languages
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo" />
-</div>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
+![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?logo=opencv&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=adobephotoshop&logoColor=white)
+
+### Open Projects
+
+[![](https://img.shields.io/badge/-🧑‍💻%20UniAlgo-000)](https://github.com/Aksgo/unialgo)
+[![](https://img.shields.io/badge/-🚥%20DOME%20Optimizer-000)](https://github.com/Aksgo/DOME-traffic-optimizer)
+[![](https://img.shields.io/badge/-Terminal%20Coder-000?logo=gnubash&logoColor=white)](https://github.com/Aksgo/cli-coding-platform)
+[![](https://img.shields.io/badge/-📂%20Scripty-000)](https://github.com/Aksgo/scripty)
+
+
+<a href="github.com/aksgo"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aksgo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksgo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
 
-## 📈 GitHub Stats
-
-| 📊 Stats | 🏆 Most Commit Language |
-|:--:|:--:|
-| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aksgo&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aksgo&theme=dark" height="180em" /> |
-
-| 🔥 Streak Stats | 📦 Repos per Language |
-|:--:|:--:|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksgo&theme=dark" height="180em" alt="aksgo's streak" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aksgo&theme=dark" height="180em" /> |
-
-| 🕒 Productive Time | 📝 Profile Details |
-|:--:|:--:|
-| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aksgo&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksgo&theme=dark" height="180em" /> |
-
-| 🌍 Top Languages |
-|:--:|
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksgo&layout=compact&theme=dark" height="180em" alt="aksgo's top languages" /> |
-
----
-
-## ⚡ Activity Graph
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aksgo&theme=github" alt="aksgo's activity graph" />
-
----
 <h2 align="center">Cooking Something Big...</h2>
 
 
