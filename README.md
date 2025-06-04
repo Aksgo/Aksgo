@@ -43,6 +43,16 @@
 [![](https://img.shields.io/badge/-📂%20Scripty-000)](https://github.com/Aksgo/scripty)
 
 
+### Contribution
+[![](https://img.shields.io/badge/-🏫%20FedEx%20Inter%20IIT-000)](https://github.com/Aksgo/unialgo)
+[![](https://img.shields.io/badge/-🧑‍🚀%20IIT%20BHU%20Astronomy-000)](https://github.com/Aksgo/Astronomy-IIT-BHU-core)
+[![](https://img.shields.io/badge/-StockMind-000?logo=plotly&logoColor=white)](https://github.com/Aksgo/StockMind)
+
+### Explorations
+[![](https://img.shields.io/badge/-Quantum%20Information-000?logo=qiskit&logoColor=white)](https://github.com/Aksgo/Quantum-Information)
+[![](https://img.shields.io/badge/-Invisibility%20Cloak-000?logo=opencv&logoColor=white)](https://github.com/Aksgo/Invisibility-Cloak)
+
+
 <a href="github.com/aksgo"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aksgo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksgo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
