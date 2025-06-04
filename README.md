@@ -44,7 +44,7 @@
 
 
 ### Contribution
-[![](https://img.shields.io/badge/-🏫%20FedEx%20Inter%20IIT-000)](https://github.com/Aksgo/unialgo)
+[![](https://img.shields.io/badge/-🏫%20FedEx%20Inter%20IIT-000)](https://github.com/Aksgo/FedEx-Supply-Chain-Inter-IIT)
 [![](https://img.shields.io/badge/-🧑‍🚀%20IIT%20BHU%20Astronomy-000)](https://github.com/Aksgo/Astronomy-IIT-BHU-core)
 [![](https://img.shields.io/badge/-StockMind-000?logo=plotly&logoColor=white)](https://github.com/Aksgo/StockMind)
 
