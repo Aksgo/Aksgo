@@ -40,7 +40,7 @@
 [![](https://img.shields.io/badge/-🧑‍💻%20UniAlgo-000)](https://github.com/Aksgo/unialgo)
 [![](https://img.shields.io/badge/-🚥%20DOME%20Optimizer-000)](https://github.com/Aksgo/DOME-traffic-optimizer)
 [![](https://img.shields.io/badge/-Terminal%20Coder-000?logo=gnubash&logoColor=white)](https://github.com/Aksgo/cli-coding-platform)
-[![](https://img.shields.io/badge/-📂%20Scripty-000)](https://github.com/Aksgo/scripty)
+[![](https://img.shields.io/badge/-🌐%20BlogSphere-000)](https://github.com/Aksgo/BlogSphere)
 
 
 ### Contribution
