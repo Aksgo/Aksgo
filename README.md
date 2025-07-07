@@ -35,7 +35,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?logo=opencv&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=adobephotoshop&logoColor=white)
 
-### Open Projects
+### Projects
 
 [![](https://img.shields.io/badge/-🧑‍💻%20UniAlgo-000)](https://github.com/Aksgo/unialgo)
 [![](https://img.shields.io/badge/-🚥%20DOME%20Optimizer-000)](https://github.com/Aksgo/DOME-traffic-optimizer)
