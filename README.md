@@ -1,12 +1,8 @@
 <h2 align="center"> 🧠 Loves Reasoning , Explores Nature 🌿 </h2>
 
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/aksgo/count.svg?"  />
-</div>
-
 ### 
-[![An image of @aksgo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aksgo)](https://holopin.io/@aksgo)
+![Profile Views](https://komarev.com/ghpvc/?username=aksgo&color=blue)
 
 
 ## ✨ Trophies
